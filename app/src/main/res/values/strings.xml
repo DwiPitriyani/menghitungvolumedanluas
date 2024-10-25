@@ -1,0 +1,7 @@
+<resources>
+    <string name="result_volume">Volume: %.2f</string>
+    <string name="result_area">Luas: %.2f</string>
+    <string name="error_empty_input">Masukkan nilai sisi!</string>
+    <string name="hint_side">Masukkan panjang sisi kubus</string>
+    <string name="button_calculate">Hitung</string>
+</resources>
